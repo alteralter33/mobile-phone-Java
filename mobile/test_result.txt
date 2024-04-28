@@ -1,5 +1,3 @@
-535353 Zhang Zihan & 535359 Wang Yiwen
-
  ----jGRASP exec: java AssignThree2020
 You have 6 contacts.
 
