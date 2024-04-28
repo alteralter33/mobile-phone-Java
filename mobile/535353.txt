@@ -1,0 +1,279 @@
+535353 Zhang Zihan & 535359 Wang Yiwen
+
+ ----jGRASP exec: java AssignThree2020
+You have 6 contacts.
+
+Do you wish to unlock your phone?
+Enter choice (Y,N): n
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java AssignThree2020
+You have 6 contacts.
+
+Do you wish to unlock your phone?
+Enter choice (Y,N): y
+
+Contact #1
+Name: Minnie Mouse
+Gender: f
+Home: #0363654321
+Mobile: #0418123456
+Birthdate: 19380629
+
+Please enter your choice (P,N,S,Q): p
+
+Contact #6
+Name: Dorothy the Dinosaur
+Gender: f
+Home: #0298341333
+Mobile: #
+Birthdate: 
+
+Please enter your choice (P,N,S,Q): s
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): w
+Please enter the correct choice.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): e
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 1
+Enter new name:
+Romaine
+Name was successfully changed!
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+Please enter your choice (0,1,2,3,4,5): 5
+Enter new birthdate:
+20000230
+Failed to edit. Please check the format (date legality).
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 5
+Enter new birthdate:
+20000228
+Birthdate was successfully changed!
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 0
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): c
+Calling (H) 0298341333...
+You have reached the voicemail for Romaine.
+Please enter your message...
+Hello Romaine!
+Message stored.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): r
+
+Contact #6
+Name: Romaine
+Gender: f
+Home: #0298341333
+Mobile: #
+Birthdate: 20000228
+
+Please enter your choice (P,N,S,Q): n
+
+Contact #1
+Name: Minnie Mouse
+Gender: f
+Home: #0363654321
+Mobile: #0418123456
+Birthdate: 19380629
+
+Please enter your choice (P,N,S,Q): s
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): e
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 3
+Enter new home number:
+1234567890
+Home number was successfully changed!
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 0
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): t
+
+Enter message one line at a time, type SEND to stop and send...
+Do you like Japanese Sushi?
+I found a great Japanese restaurant.
+send
+2 line message sent.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): c
+Calling (H) 1234567890...
+You have reached the voicemail for Minnie Mouse.
+Please enter your message...
+Oops.Please check my message!
+Message stored.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): r
+
+Contact #1
+Name: Minnie Mouse
+Gender: f
+Home: #1234567890
+Mobile: #0418123456
+Birthdate: 19380629
+
+Please enter your choice (P,N,S,Q): n
+
+Contact #2
+Name: Homer Simpson
+Gender: m
+Home: #0364192834
+Mobile: #
+Birthdate: 19700110
+
+Please enter your choice (P,N,S,Q): s
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): c
+Calling (H) 0364192834...
+You have reached the voicemail for Homer Simpson.
+Please enter your message...
+I left my hat at your house.
+Message stored.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): r
+
+Contact #2
+Name: Homer Simpson
+Gender: m
+Home: #0364192834
+Mobile: #
+Birthdate: 19700110
+
+Please enter your choice (P,N,S,Q): n
+
+Contact #3
+Name: Eric Cartman
+Gender: m
+Home: #0362262001
+Mobile: #
+Birthdate: 20010802
+
+Please enter your choice (P,N,S,Q): s
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): t
+
+No mobile phone number. Message can not be send.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): e
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 2
+Enter new gender:
+f
+Gender was successfully changed!
+
+0. Return without changing contact details
+1. Edit name
+2. Edit gender
+3. Edit home number
+4. Edit mobile number
+5. Edit birthdate
+Please enter your choice (0,1,2,3,4,5): 0
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): r
+
+Contact #3
+Name: Eric Cartman
+Gender: f
+Home: #0362262001
+Mobile: #
+Birthdate: 20010802
+
+Please enter your choice (P,N,S,Q): n
+
+Contact #4
+Name: Bob the Builder
+Gender: m
+Home: #
+Mobile: #0898356455
+Birthdate: 19830321
+
+Please enter your choice (P,N,S,Q): s
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): t
+
+Enter message one line at a time, type SEND to stop and send...
+Did you do your math homework?
+Can you teach me when you are free?
+It's too hard!
+SEND
+3 line message sent.
+
+What do you want to do with this contact?
+Please enter your choice (E,C,T,R): r
+
+Contact #4
+Name: Bob the Builder
+Gender: m
+Home: #
+Mobile: #0898356455
+Birthdate: 19830321
+
+Please enter your choice (P,N,S,Q): q
+Do you wish to turn off your phone? (Y/N): n
+
+Please enter your choice (P,N,S,Q): q
+Do you wish to turn off your phone? (Y/N): y
+CALL Romaine
+TEXT Minnie Mouse
+CALL Minnie Mouse
+CALL Homer Simpson
+TEXT Bob the Builder
+
+ ----jGRASP: operation complete.
